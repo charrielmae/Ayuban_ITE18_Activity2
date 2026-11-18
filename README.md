@@ -32,3 +32,16 @@ A modular, component-based **Student Information Website** built with **Nuxt 4**
 npm install
 npm run dev
 ```
+# Ayuban, Charriel Mae M. 
+# ITE 18 AIEM1
+# FOLDERS 
+<img width="207" height="733" alt="image" src="https://github.com/user-attachments/assets/2ab8c990-b726-4419-b8ae-db79d91e9b28" />
+
+# DOCUMENTATION 
+<img width="1077" height="907" alt="image" src="https://github.com/user-attachments/assets/6aaa070b-4b4f-4948-b836-57273166370a" />
+<img width="756" height="767" alt="image" src="https://github.com/user-attachments/assets/b44997ec-9a50-4d10-9ac9-c4491476189a" />
+<img width="498" height="757" alt="image" src="https://github.com/user-attachments/assets/60bd20dd-e7de-48ea-b57f-355c4674b9af" />
+
+
+
+
